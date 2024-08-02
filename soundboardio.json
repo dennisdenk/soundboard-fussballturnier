@@ -1,0 +1,68 @@
+{
+  "name": "Feuerwehr Soundboard",
+  "shortName": "FF Soundboard",
+  "description": "Stoppen und schießen!",
+  "author": {
+    "name": "",
+    "url": ""
+  },
+  "lang": "de",
+  "color": "#FF2400",
+  "version": "1.0.0",
+  "rootUrl": "sounds/",
+  "icons": [
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "purpose": "maskable any",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "tiles": [
+    {
+      "name": "Einmarsch",
+      "filename": "asdf.mp3"
+    },
+    {
+      "name": "Stefan",
+      "filename": "stefan.mp3"
+    },
+    {
+      "name": "Gerhard",
+      "filename": "gerhard.mp3"
+    },
+    {
+      "name": "Vinzent",
+      "filename": "vinzent.mp3"
+    },
+    {
+      "name": "Manuel",
+      "filename": "manuel.mp3"
+    },
+    {
+      "name": "Julian",
+      "filename": "julian.mp3"
+    },
+    {
+      "name": "Jonas",
+      "filename": "jonas.mp3"
+    },
+    {
+      "name": "Dennis",
+      "filename": "dennis.mp3"
+    },
+    {
+      "name": "Mehr Promille als IQ",
+      "filename": "mehrpromille.mp3"
+    },
+    {
+      "name": "Geile Figur",
+      "filename": "geilefigur.mp3"
+    }
+  ]
+}
